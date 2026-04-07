@@ -1,0 +1,26 @@
+{
+  "name": "stark-store-bot",
+  "version": "1.0.0",
+  "description": "Bot de tickets profissional para a Stark Store — discord.js v14",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tickets",
+    "stark-store",
+    "discord.js"
+  ],
+  "author": "Stark Store",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
